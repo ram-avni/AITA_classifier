@@ -20,9 +20,9 @@ At first, Reddit's own API seemed like the obvious choice, but we then realized 
 
 ![pie chart of class distribution](https://github.com/h-parker/AITA_classifier/blob/master/Images/class_dist.png)
 
-### Features <a name="features"></a>
+## Features <a name="features"></a>
 
-## EDA & Feature Engineering <a name="eda"></a>
+### EDA & Feature Engineering <a name="eda"></a>
 ### Hand Crafted Features  <a name="byhand"></a>
 We started by putting together several features that seemed naturally like they could be indicative of a person being a jerk, and those features were
 - Number of:
