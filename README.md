@@ -4,8 +4,8 @@ Lately, it seems like there's been a massive push to use data intelligently in e
 
 * [Data](#data)
   * [Source](#source)
-  * [Features](#features)
-* [EDA and Feature Engineering](#eda)
+* [Features](#features)
+  * [EDA and Feature Engineering](#eda)
   * [Hand Crafted Features](#byhand)
   * [Features from Libraries](#fromlibraries)
 * [Modeling](#modeling)
